@@ -1,0 +1,9 @@
+## Interface: 50400
+## Title: ChatGPT Helper
+## Version: 1.0
+## Author: KenX023
+## Notes: Integración con ChatGPT para WoW
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+ChatGPTHelper.lua 
